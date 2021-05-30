@@ -10,7 +10,7 @@
 - The aim of the project is to create an Application to ease the Healthcare workers to track the patient details and clearly have idea on the availability of the doctors to make an appointments. This application will help in reducing the manual work of the healthcare workers, patients. This web portal also helps in maintaining the patient record so that
 doctors can easily handle the patients according to their history.
 
-- The application is developed using Front end technologies HTML5, CSS3 and Java Framework JSP. Coming to Backend technologies we have used Servlets and Database as
+- The application is developed using Front end technologies HTML5, CSS3 and Java Framework JSP. Servlets is used as the controller to redirect the HTTP traffic and Database as
 MySQL connected using JDBC (Java Database Connectivity) framework. The application aims to make the requesting doctor’s appointment process more efficient and easier to
 handle.
 
@@ -20,7 +20,7 @@ URL which redirect to the web page. A patient can use the web application to cho
 
 ## Overview
 
-- To create the web application for the Healthcare Management system, first doctor and patient registration details were taken into considered. There are number of
+- To create the web application for the Healthcare Management system, first doctor and patient registration details were taken into consideration. There are number of
 hospitals which are currently have manual system which have more repetitive and laborious work and also error prone to computerize the same for quicker efficient results
 and customer satisfaction. This application will ease healthcare scenario.
 
